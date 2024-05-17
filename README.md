@@ -1,6 +1,8 @@
 # Mobile-Games-A-B-Testing
 Mobile Games A/B Testing Analysis
 
+<a href="https://youtu.be/GaP5f0jVTWE"><img src="https://assets.datacamp.com/production/project_184/img/cookie_cats_video.jpeg" style="width: 500px"></a></p>
+
 ## 1. Introduction
 The objective of this study is to analyze the impact of gate placement on player retention in Cookie Cats, a mobile puzzle game developed by Tactile Entertainment. The analysis focuses on an A/B test conducted to evaluate whether moving the gate from level 30 to level 40 affects player engagement and retention.
 
